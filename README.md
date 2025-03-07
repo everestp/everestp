@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Everest Paudel</h1>
-<h3 align="center">A passionate Java developer from Nepal</h3>
+<h3 align="center"> Java developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=everestp&label=Profile%20views&color=0e75b6&style=flat" alt="everestp" /> </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Everest Paudel</h1>
-<h3 align="center">💻 Java Developer | 🔧 DevOps Enthusiast | 🔗 Blockchain Explorer</h3>
+<h3 align="center">💻 Web3 | 🔧 DevOps Enthusiast | 🔗 Blockchain Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=everestp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -10,7 +10,7 @@
 ### 🌱 About Me
 - 🚀 Passionate about building scalable backend systems with **Java** & **Spring Boot**  
 - 🔍 Exploring **DevOps**, **Blockchain**, and **Microservices** architecture  
-- 💬 Love talking about **Java**, **React**, **Web3**, and **CI/CD tools**  
+- 💬 Love talking about **Rust**, **React**, **Web3**, and **CI/CD tools**  
 - 📫 Reach me at: [paudeleverest09@gmail.com](mailto:paudeleverest09@gmail.com)
 
 ---

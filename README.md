@@ -5,12 +5,16 @@
 <img src="https://komarev.com/ghpvc/?username=everestp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mizter/Mizter/main/assets/code.gif" alt="Coding GIF" />
+</p>
+
 🌱 About Me
-🚀 Passionate about building scalable backend systems and robust DevOps pipelines
+🚀 Passionate about building decentralized applications and automating infrastructure with Node.js, Express.js, and DevOps practices.
 
-🔍 Exploring the intersection of Web3, Blockchain, and Microservices architecture
+🔍 Exploring the intersection of Web3, Blockchain, and Cloud Computing.
 
-💬 Love discussing Rust, React, Solana, and CI/CD tools
+💬 Love discussing Rust, React, Solana, and CI/CD tools.
 
 📫 Reach me at: paudeleverest09@gmail.com
 
@@ -26,14 +30,12 @@
 
 🛠️ Technologies & Tools
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" alt="Rust"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity"/>
-<img src="https://img.shields.io/badge/NFTs-E53E3E?style=for-the-badge&logo=codewars&logoColor=white" width="40" height="40" alt="NFTs"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>

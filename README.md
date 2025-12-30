@@ -16,7 +16,7 @@
 
 💬 Love discussing Rust, React, Solana, and CI/CD tools.
 
-📫 Reach me at: paudeleverest09@gmail.com
+📫 Reach me at: everest@paudel.dev
 
 🔗 Let's Connect
 <p align="center">

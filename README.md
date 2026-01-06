@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Everest Paudel</h1>
 
 <h3 align="center">
-Backend-Developer(Golang)• Devops • Blockchain
+Backend Engineer (Golang) • DevOps
 </h3>
 
 <p align="center">
@@ -11,118 +11,37 @@ Backend-Developer(Golang)• Devops • Blockchain
   <a href="mailto:everest@paudel.dev"><b>everest@paudel.dev</b></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=everestp&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mizter/Mizter/main/assets/code.gif" width="450" />
-</p>
+## 🧠 About Me
+I’m a **backend engineer** passionate about building **scalable, reliable, and maintainable systems** using **Golang**, **microservices**, and **cloud-native architecture**.  
+
+I focus on:
+- ⚙️ High-performance backend systems  
+- 🔄 Event-driven microservices  
+- ☁️ Cloud-native infrastructure (Docker/Kubernetes)  
 
 ---
 
-## 🧠 Who Am I?
+## 🛠️ Tech Stack
 
-I’m a **backend engineer** with a strong focus on **Golang**, **distributed systems**, and **cloud-native architecture**.
-
-I enjoy building:
-- ⚙️ **Scalable backend systems**
-- 🔄 **Event-driven microservices**
-- ☁️ **Cloud & Kubernetes-native infrastructure**
-- 🔗 **Decentralized applications (Web3)**
-
-I care deeply about **clean architecture**, **performance**, **reliability**, and **long-term maintainability**.
-
----
-
-## 🎯 Core Focus Areas
-
-- **Backend Engineering (Go)**
-- **Microservices & Distributed Systems**
-- **Message Queues & Async Processing**
-- **DevOps & Platform Engineering**
-- **Blockchain & Web3 (Solana)**
-
----
-
-## 🛠️ Technology Stack
-
-### 👨‍💻 Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
- 
-</p>
-
----
-
-### ⚙️ Backend & Systems
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="40"/>
-</p>
-
-**Experience with:**
-- REST, gRPC, RPC
-- RabbitMQ (AMQP)
-- Authentication & Authorization
-- API design & versioning
-- Data modeling & migrations
-
----
-
-### ☁️ DevOps & Cloud
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
 </p>
 
-**Practices:**
-- CI/CD pipelines
-- Containerization & orchestration
-- Observability & monitoring
-- Infrastructure automation
-
 ---
 
-### 🔗 Web3 & Blockchain
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solana/solana-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40"/>
-</p>
-
-- Smart contracts in **Rust**
-- Wallet-based authentication
-- On-chain data ownership
-- Censorship-resistant systems
-
----
-
-
-## 🧠 Engineering Philosophy
-
-- 📦 **Small, composable services**
-- 🔄 **Asynchronous over synchronous when possible**
-- 🧪 **Testability > cleverness**
-- 📐 **Design for scale, build for simplicity**
-- 🧼 **Clean code is a feature**
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=everestp&show_icons=true&theme=radical" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=everestp&show_icons=true&count_private=true&theme=radical&hide_title=true" width="420"/>
 </p>
 
 <p align="center">
@@ -130,7 +49,7 @@ I care deeply about **clean architecture**, **performance**, **reliability**, an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everestp&layout=compact&theme=radical" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everestp&layout=compact&theme=radical&hide_title=true" width="420"/>
 </p>
 
 ---
@@ -148,7 +67,5 @@ I care deeply about **clean architecture**, **performance**, **reliability**, an
 
 ---
 
-## 🚀 Fun Fact
-
-> **I believe great backend systems are invisible — until they fail.  
-My job is to make sure they never do.**
+## 🚀 Motto
+> **Great backend systems are invisible — until they fail. My job is to make sure they never do.**

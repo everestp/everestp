@@ -28,25 +28,26 @@ Backend Engineering · Go · Node.js · Blockchain · Applied AI
 
 ## 🧠 About Me
 
-I'm a computer science student (B.Sc. CSIT, Tribhuvan University) and **backend developer** based in Nepal. I love building practical systems that work reliably under the hood—focusing on backend services, AI integrations, and core blockchain technologies. 
+I'm a computer science student pursuing **B.Sc. CSIT at Tribhuvan University** and a **Backend Engineer** based in Nepal.
+
+I primarily work with **Go and Node.js**, building backend services, APIs, and distributed systems. I also work with **Applied AI using Python** and have a strong interest in **blockchain systems**.
 
 ### 🛠️ Core Stack
 
-| Category | Technologies |
+| Area | Technologies |
 | :--- | :--- |
-| **Languages** | `Go`, `Node.js`, `TypeScript` |
-| **Backend & Messaging** | `Express.js`, `NestJS`, `gRPC`, `RabbitMQ`, `REST APIs` |
-| **Databases** | `PostgreSQL`, `Redis`, `MongoDB` |
-| **Tools & Infrastructure** | `Docker`, `Git`, `Linux`, `Nginx` |
+| **Languages** | `Go` · `Python` · `TypeScript` |
+| **Backend** | `Node.js` · `Express.js` · `NestJS` · `REST` · `gRPC` |
+| **Data & Messaging** | `PostgreSQL` · `Redis` · `MongoDB` · `RabbitMQ` |
+| **Applied AI** | `FastAPI` · `LangChain` · `LangGraph` · `RAG` · `AI Agents` |
+| **Infrastructure** | `Docker` · `Linux` · `Nginx` · `Git` |
 
----
+### 🎯 Interests
 
-### 🎯 What I Focus On
-
-* **⚙️ Backend Engineering:** Building clean APIs, microservices, and reliable server-side logic using Go and Node.js.
-* **🤖 AI Integration:** Experimenting with AI-powered backend workflows and RAG systems.
-* **🪙 Blockchain:** Interested in Bitcoin technology, peer-to-peer networks, and privacy-focused blockchain systems like Monero and Zcash.
----
+- **Backend Engineering** — Go, Node.js, distributed systems, APIs, and system design.
+- **Applied AI** — Building practical AI applications, RAG systems, and agent-based workflows with Python.
+- **Blockchain** — Bitcoin, peer-to-peer networks, and privacy-focused blockchain systems.
+- **Security** — Secure backend systems and application security.
 
 ## 🛠️ Tech Stack
 

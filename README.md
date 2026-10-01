@@ -51,50 +51,30 @@ I'm a computer science student (B.Sc. CSIT, Tribhuvan University) and **backend 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=go,rust,ts,js,c,cpp" />
+<img src="https://skillicons.dev/icons?i=go,python,rust,ts,js,c,cpp" />
 
 **Backend & Data**
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,rabbitmq,appwrite" />
 
+**Applied AI**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,langchain,langgraph" />
+
+<br/>
+
+`RAG` · `AI Agents` · `Agentic AI`
+
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
 
 **Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,git,linux" />
 
-<br/>
+</div>
 
-**Applied AI**
-
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge)
-![AI Applications](https://img.shields.io/badge/AI%20Applications-7C3AED?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-4F46E5?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-4338CA?style=for-the-badge)
-![LLM Applications](https://img.shields.io/badge/LLM%20Applications-6D28D9?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/AI%20Automation-5B21B6?style=for-the-badge)
-
-<br/>
-
-**Backend & Systems**
-
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Event Driven](https://img.shields.io/badge/Event--Driven%20Systems-7C3AED?style=for-the-badge)
-
-**Blockchain**
-
-![Blockchain](https://img.shields.io/badge/Blockchain-111827?style=for-the-badge)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-
-**Security & Identity**
-
-![OAuth2](https://img.shields.io/badge/OAuth2%20%2F%20OIDC-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 </div>
 

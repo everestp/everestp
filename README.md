@@ -1,23 +1,26 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Everest%20Paudel&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI&descSize=20&descAlignY=58" width="100%"/>
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=50&lines=Building+scalable+systems+in+Go+%26+Node.js+%F0%9F%90%B9;Event-driven+microservices+%E2%80%A2+gRPC+%E2%80%A2+RabbitMQ;Building+AI-powered+backends+%26+RAG+agents;Secure+auth+%E2%80%A2+OAuth2+%E2%80%A2+OIDC+%E2%80%A2+APIs;%22Great+backend+systems+are+invisible+until+they+fail.%22" alt="Typing SVG"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Everest%20Paudel&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20(Go)%20%7C%20Blockchain%20%7C%20Applied%20AI&descSize=20&descAlignY=58&color=gradient" width="100%"/>
 
 <br/>
 
-<a href="https://paudel.dev"><img src="https://img.shields.io/badge/Portfolio-paudel.dev-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/everestp"><img src="https://img.shields.io/badge/LinkedIn-everestp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:paudeleverest09@gmail.com"><img src="https://img.shields.io/badge/Email-paudeleverest09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.leetcode.com/everestp"><img src="https://img.shields.io/badge/LeetCode-everestp-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://paudel.dev">
+  <img src="https://img.shields.io/badge/Portfolio-paudel.dev-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/everestp">
+  <img src="https://img.shields.io/badge/LinkedIn-everestp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:paudeleverest09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.leetcode.com/everestp">
+  <img src="https://img.shields.io/badge/LeetCode-everestp-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=everestp&label=Profile%20Views&color=8b5cf6&style=flat-square"/>
-<img src="https://img.shields.io/badge/Based%20in-Kathmandu%2C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5-14b8a6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open%20to-Backend%20%2F%20Distributed%20Systems%20roles-22c55e?style=flat-square"/>
+Backend Engineering · Go · Node.js · Blockchain · Applied AI
 
 </div>
 

@@ -91,11 +91,12 @@ I primarily work with **Go and Node.js**, building backend services, APIs, and d
 ### 📡 [DePing.xyz](https://deping.xyz)
 **Distributed uptime monitoring network**
 
-Go backend coordinating uptime checks across **Rust edge workers**, with Redis scheduling, RabbitMQ queues and bidirectional gRPC telemetry.
+Go backend coordinating uptime checks across **Rust edge workers**.
 
-- Two-Packet state machine to reduce false alarms
-- Anti-cheat engine for validating node reports
-- Real-time Telegram alerts and reward infrastructure
+- Built scalable Go microservices for distributed uptime monitoring.
+- Implemented Redis scheduling, RabbitMQ queues and bidirectional gRPC telemetry.
+- Developed a Two-Packet state machine and anti-cheat engine to reduce false alarms.
+- Integrated Telegram alerts and Solana Anchor programs for SPL rewards and consensus validation.
 
 `Go` `Rust` `gRPC` `RabbitMQ` `Redis` `PostgreSQL` `Solana`
 
@@ -107,13 +108,14 @@ Go backend coordinating uptime checks across **Rust edge workers**, with Redis s
 ### 🤖 AI Document Intelligence Platform
 **Document processing, RAG and AI agents**
 
-End-to-end AI backend for transforming unstructured documents into searchable and structured information.
+End-to-end AI backend for transforming unstructured documents into structured information.
 
-- PDF ingestion, extraction, cleaning and chunking
-- Embeddings and ChromaDB semantic retrieval
-- RAG-based document Q&A and AI agent workflows
+- Built PDF ingestion, extraction, cleaning, chunking and structured data generation pipelines.
+- Implemented embeddings, vector retrieval and ChromaDB semantic search.
+- Developed RAG-based document Q&A and rule-based / LLM-powered agent workflows.
+- Exposed AI workflows through FastAPI with Pydantic validation and React integration.
 
-`Python` `FastAPI` `RAG` `ChromaDB` `Pydantic` `LLMs`
+`Python` `FastAPI` `RAG` `LangGraph` `ChromaDB` `Pydantic` `React`
 
 </td>
 </tr>
@@ -124,11 +126,12 @@ End-to-end AI backend for transforming unstructured documents into searchable an
 ### 💳 [Kipay.xyz](https://kipay.xyz)
 **Non-custodial crypto payment gateway**
 
-High-performance Go backend using a modular monolith with native `net/http`, paired with a **Rust verification engine** over bidirectional gRPC.
+High-performance Go payment infrastructure using a modular monolith architecture.
 
-- Merchant admin, payment links and hosted checkout
-- Settlement engine and signed webhooks
-- Real-time transaction state tracking
+- Built the backend in Go using native `net/http` for payment processing.
+- Developed a Rust multi-currency verification engine communicating through bidirectional gRPC.
+- Implemented merchant administration, payment links and hosted checkout workflows.
+- Designed PostgreSQL settlement flows with signed webhooks and real-time transaction state tracking.
 
 `Go` `Rust` `gRPC` `React` `PostgreSQL`
 
@@ -142,11 +145,12 @@ High-performance Go backend using a modular monolith with native `net/http`, pai
 
 FastAPI banking platform combining transaction processing with machine-learning-based risk analysis.
 
-- Accounts, transactions, transfers and async processing
-- Gradient Boosting fraud detection and risk scoring
-- ROC-AUC, recall, F1 and MLflow model management
+- Built accounts, transactions, transfers and transaction-history workflows with async processing.
+- Implemented feature engineering, Gradient Boosting and transaction risk scoring.
+- Evaluated fraud models using ROC-AUC, recall, F1-score and false-positive / false-negative analysis.
+- Integrated MLflow model management with FastAPI prediction endpoints and Celery workflows.
 
-`Python` `FastAPI` `PostgreSQL` `Scikit-learn` `MLflow`
+`Python` `FastAPI` `PostgreSQL` `Scikit-learn` `MLflow` `Redis` `Celery` `RabbitMQ`
 
 </td>
 </tr>
@@ -157,13 +161,14 @@ FastAPI banking platform combining transaction processing with machine-learning-
 ### 🪪 [NID.xyz](https://nid.xyz)
 **Handle-based identity provider**
 
-Go identity backend providing one handle across connected applications using **OAuth 2.0, OIDC and PKCE**.
+Go identity infrastructure providing a unified handle across connected applications.
 
-- `.nid` handle claiming and resolution
-- EVM and Solana ownership verification
-- Central session management and instant revocation
+- Built a scalable Go identity provider for handle-based authentication.
+- Implemented OAuth 2.0, OpenID Connect and PKCE authorization flows.
+- Developed `.nid` handle claiming and resolution with EVM and Solana wallet verification.
+- Implemented centralized session management with active-session revocation.
 
-`Go` `React` `TypeScript` `OAuth2` `OIDC` `PostgreSQL`
+`Go` `React` `TypeScript` `OAuth 2.0` `OIDC` `PKCE` `PostgreSQL` `Solana`
 
 [![Live](https://img.shields.io/badge/Live-nid.xyz-8b5cf6?style=flat-square)](https://nid.xyz)
 
@@ -173,11 +178,12 @@ Go identity backend providing one handle across connected applications using **O
 ### 🧠 Production AI/ML Platform
 **ML training, serving and monitoring**
 
-Production-oriented ML platform covering data processing, model training, inference and monitoring.
+End-to-end ML platform covering model development, serving and monitoring.
 
-- Feature engineering, training and evaluation
-- MLflow experiment tracking and model versioning
-- DVC pipelines and PSI-based data-drift monitoring
+- Built data-processing and feature-engineering pipelines for model training.
+- Implemented Logistic Regression, Random Forest and XGBoost model training and evaluation.
+- Integrated MLflow experiment tracking and model versioning with DVC data and pipeline versioning.
+- Developed FastAPI inference services with logging, validation and PSI-based data-drift monitoring.
 
 `Python` `FastAPI` `XGBoost` `MLflow` `DVC` `Docker` `AWS`
 
@@ -190,13 +196,14 @@ Production-oriented ML platform covering data processing, model training, infere
 ### 🌬️ [BREEZO Network](https://breezonetwork.xyz)
 **Air-quality monitoring network · Founding Engineer**
 
-Node.js backend ingesting live telemetry from **ESP32 sensors** and streaming sub-second updates through Socket.IO.
+Real-time IoT backend ingesting telemetry from distributed ESP32 sensor nodes.
 
-- NaCl-secured device communication
-- Replay protection against data injection
-- Solana node registration and SPL rewards
+- Built the Node.js backend for real-time ESP32 air-quality telemetry ingestion.
+- Implemented low-latency Socket.IO streaming for sub-second sensor updates.
+- Secured device communication using NaCl cryptography and replay-protection mechanisms.
+- Developed Solana Anchor programs for node registration, SPL rewards and access control.
 
-`Node.js` `TypeScript` `MongoDB` `Socket.IO` `ESP32` `Solana`
+`Node.js` `TypeScript` `MongoDB` `Socket.IO` `ESP32` `Solana` `Anchor`
 
 [![Live](https://img.shields.io/badge/Live-breezonetwork.xyz-22c55e?style=flat-square)](https://breezonetwork.xyz)
 
@@ -206,11 +213,12 @@ Node.js backend ingesting live telemetry from **ESP32 sensors** and streaming su
 ### 🏛️ [PayDAO](https://paymentdao.vercel.app/)
 **Realtime DAO treasury governance**
 
-Built with **MagicBlock Ephemeral Rollups** for realtime governance with programmable treasury execution and durable settlement.
+Realtime governance infrastructure built with **MagicBlock Ephemeral Rollups**.
 
-- Permissionless groups, proposals and member voting
-- Duplicate-vote protection with `VoteReceipt`
-- Treasury reservation and automatic execution
+- Built permissionless groups, proposals and member voting.
+- Implemented duplicate-vote protection using `VoteReceipt` state.
+- Developed treasury reservation and automatic execution workflows.
+- Implemented atomic commit and undelegation for durable settlement back to Solana.
 
 `Rust` `Anchor` `Solana` `MagicBlock` `React`
 
@@ -226,10 +234,12 @@ Built with **MagicBlock Ephemeral Rollups** for realtime governance with program
 ### 🧩 [Godec.xyz](https://solana-minihack.vercel.app)
 **On-chain applications with wallet ownership**
 
-A Solana platform for user-owned application data.
+Solana platform for building applications around wallet-based ownership.
 
-- Wallet-based authentication
-- On-chain Todo, Notes and Voting applications
+- Implemented wallet-based authentication.
+- Built on-chain Todo functionality.
+- Developed on-chain Notes functionality.
+- Developed on-chain Voting functionality.
 
 `Rust` `Solana` `React`
 
@@ -243,9 +253,10 @@ A Solana platform for user-owned application data.
 
 Academic platform for structured exam preparation and resource management.
 
-- Role-based authentication
-- Mock tests and exam library
-- Search, filtering and resource management
+- Implemented role-based authentication.
+- Built mock tests and an exam resource library.
+- Added search and filtering for academic resources.
+- Implemented resource management using Appwrite-backed storage.
 
 `Appwrite` `TypeScript` `React`
 
@@ -262,11 +273,12 @@ Academic platform for structured exam preparation and resource management.
 
 Interactive coding platform focused on structured, syllabus-aligned learning.
 
-- In-browser coding with Monaco editor
-- Structured, syllabus-aligned learning
-- Authentication and storage
+- Built in-browser coding functionality using the Monaco editor.
+- Structured learning content around the TU syllabus.
+- Implemented authentication for platform users.
+- Integrated Appwrite for application data and storage.
 
-`Appwrite` `TypeScript` `React`
+`Appwrite` `TypeScript` `React` `Monaco Editor`
 
 [![Live](https://img.shields.io/badge/Live-codenumber.net-00c2b3?style=flat-square)](https://www.codenumber.net)
 
